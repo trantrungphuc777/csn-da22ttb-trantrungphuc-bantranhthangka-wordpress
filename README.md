@@ -65,6 +65,11 @@ Dự án này tập trung vào việc xây dựng một website thương mại �
 - Phát triển ứng dụng di động để hỗ trợ trải nghiệm mua sắm tốt hơn.
 - Tăng cường chiến lược SEO để thu hút lượng truy cập lớn hơn.
 
-## Lời cảm ơn
+## Thông tin liên hệ:
+**Email:** trantrungphuc98021@gmail.com
 
-Dự án được hoàn thành dưới sự hướng dẫn tận tình từ thầy Nguyễn Hoàng Duy Thiện và sự hỗ trợ của các thầy cô Khoa Kỹ thuật và Công nghệ – Trường Đại Học Trà Vinh.
+**MSSV:** 110122142
+
+**Mã lớp:** DA22TTB
+
+`GVHD: Nguyễn Hoàng Duy Thiện`
