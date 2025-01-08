@@ -26,7 +26,7 @@ Dự án này tập trung vào việc xây dựng một website thương mại �
 5. **Tính năng nâng cao**:
    - So sánh sản phẩm.
    - Lưu sản phẩm yêu thích.
-   - Gợi ý sản phẩm phù hợp với phong thủy cá nhân.
+   - Xem phương vị nhà ở và tuổi xây dựng phong thủy khách hàng lựa chọn phương hướng treo Thangka thích hợp.
 
 6. **Chức năng quản trị**:
    - Quản lý sản phẩm, đơn hàng, khách hàng, và các bài viết trên Blog.
