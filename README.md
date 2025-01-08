@@ -35,7 +35,7 @@ Dự án này tập trung vào việc xây dựng một website thương mại �
 
 - **WordPress**: Nền tảng chính để xây dựng website.
 - **WooCommerce**: Plugin hỗ trợ xây dựng cửa hàng trực tuyến.
-- **PHP & MySQL**: Xử lý backend và cơ sở dữ liệu.
+- **Xampp**: Tạo môi trường máy chủ cục bộ bao gồm Apache để chạy máy chủ web, MySQL để quản lý cơ sở dữ liệu.
 
 ## Hướng dẫn cài đặt
 
