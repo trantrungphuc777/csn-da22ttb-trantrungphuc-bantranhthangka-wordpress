@@ -1,12 +1,3 @@
-## Thông tin liên hệ:
-**Email:** trantrungphuc98021@gmail.com
-
-**MSSV:** 110122142
-
-**Mã lớp:** DA22TTB
-
-`GVHD: Nguyễn Hoàng Duy Thiện`
-
 # Xây dựng Website bán tranh Thangka
 
 Dự án này tập trung vào việc xây dựng một website thương mại điện tử để giới thiệu và bán các bức tranh Thangka - một loại hình nghệ thuật truyền thống của Tây Tạng, sử dụng nền tảng WordPress và các công cụ hỗ trợ như WooCommerce.
