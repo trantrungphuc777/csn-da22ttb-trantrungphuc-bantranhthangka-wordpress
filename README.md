@@ -40,7 +40,7 @@ Dự án này tập trung vào việc xây dựng một website thương mại �
 ## Hướng dẫn cài đặt
 
 1. Cài đặt môi trường phát triển:
-   - Tải và cài đặt XAMPP hoặc WAMP.
+   - Tải và cài đặt XAMPP.
    - Cài đặt WordPress từ [wordpress.org](https://wordpress.org).
 
 2. Cài đặt cơ sở dữ liệu:
